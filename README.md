@@ -6,6 +6,7 @@ HTML Blog Template
 - cms ready codes
 - Speed optimized
 - SEO friendly tags
+- royalty free stock images (https://pixabay.com/)
 
 <br/><br/>
 ![Screenshot](screen-1.png)<br/><br/>
